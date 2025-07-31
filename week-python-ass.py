@@ -25,7 +25,8 @@ else :
 
 
 #printing result
-print ("result:", result)
+print ( F"{first_number} {operator} {second_number} = {result}")
+
 
 
 
